@@ -1,0 +1,12 @@
+[submodule "3rd/DuckX"]
+	path = 3rd/DuckX
+	url = https://github.com/amiremohamadi/DuckX.git
+[submodule "3rd/vcpkg"]
+	path = 3rd/vcpkg
+	url = https://github.com/microsoft/vcpkg
+[submodule "3rd/libzippp"]
+	path = 3rd/libzippp
+	url = https://github.com/ctabin/libzippp
+[submodule "3rd/pugixml"]
+	path = 3rd/pugixml
+	url = https://github.com/zeux/pugixml.git

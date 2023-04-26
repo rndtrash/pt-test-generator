@@ -1,0 +1,6 @@
+{
+    "dependencies": [
+        "qt6-base",
+        "libzippp"
+    ]
+}
